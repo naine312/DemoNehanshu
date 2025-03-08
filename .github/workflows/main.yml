@@ -17,7 +17,7 @@ jobs:
           java-version: '17'
 
       - name: Compile Java Code
-        run: javac Main.java
+        run: javac Lab3.java
 
       - name: Run Java Program
         run: java Main
